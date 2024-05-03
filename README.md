@@ -42,7 +42,6 @@ Sentiment-Analysis/
 ## Credits
 
 - **Vidhika48**: Project creator and developer.
-- **OpenAI**: Trained models and algorithms.
 - **Scikit-learn**: Machine learning library for model training and prediction.
 - **Flask**: Web application framework for Python.
 
